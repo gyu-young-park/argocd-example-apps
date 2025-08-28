@@ -5,7 +5,7 @@ Go!! Argocd!!! https://github.com/gyu-young-park/argocd-example-apps.git
 ```shell
 git clone https://github.com/gyu-young-park/argocd-example-apps.git
 # cd into the cloned directory
-git checkout 25a659434e0b0f381f10bea8cf73de9eb21c8802
+git checkout bc9d9d8e401fbe933307a58af8fbce3e94a28853
 helm template . --name-template my-app --include-crds
 ```
 
