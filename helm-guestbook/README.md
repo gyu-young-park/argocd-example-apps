@@ -1,11 +1,11 @@
 # Manifest Hydration???????? hello
 To hydrate the manifests gyu!!! repository, run the following commands:
 
-im gyu!!!!!gyu
+Go!! Argocd!!! https://github.com/gyu-young-park/argocd-example-apps.git
 ```shell
 git clone https://github.com/gyu-young-park/argocd-example-apps.git
 # cd into the cloned directory
-git checkout 641c8fd405502fb652238308b0e38480cff5deae
+git checkout 25a659434e0b0f381f10bea8cf73de9eb21c8802
 helm template . --name-template my-app --include-crds
 ```
 
