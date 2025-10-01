@@ -28,7 +28,7 @@ metadata:
     release: my-app
   name: my-app-helm-guestbook
 spec:
-  replicas: 1
+  replicas: 4
   revisionHistoryLimit: 3
   selector:
     matchLabels:
