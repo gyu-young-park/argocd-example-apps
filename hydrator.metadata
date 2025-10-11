@@ -1,8 +1,8 @@
 {
   "repoURL": "https://github.com/gyu-young-park/argocd-example-apps.git",
-  "drySha": "1dd782857e1f0d6d3a5fc18ce206de53f92be396",
+  "drySha": "5bb10e6269b9a41562d3080632809d5bab64739e",
   "author": "gyu-young-park <gyoue200125@gmail.com>",
-  "date": "2025-10-11T04:34:18Z",
-  "subject": "hydrator subjet\\n\\nmessage body!!",
-  "body": "Signed-off-by: gyu-young-park <gyoue200125@gmail.com>\n"
+  "date": "2025-10-11T04:35:25Z",
+  "subject": "hydrator subjet",
+  "body": "message body22!!\n\nSigned-off-by: gyu-young-park <gyoue200125@gmail.com>\n"
 }
