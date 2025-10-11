@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/gyu-young-park/argocd-example-apps.git",
-  "drySha": "ac1db65e0902930ff656ea10f536947af333c44c",
+  "drySha": "152467039d3bb5ff75ff0ddb0865e90d071fc63e",
   "commands": [
     "helm template . --name-template my-app --include-crds"
   ]
