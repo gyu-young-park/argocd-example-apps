@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/gyu-young-park/argocd-example-apps.git",
-  "drySha": "94ab1eff8e08647ab2473c1996fcef375914a3d7",
+  "drySha": "ac1db65e0902930ff656ea10f536947af333c44c",
   "author": "gyu-young-park <gyoue200125@gmail.com>",
-  "date": "2025-10-11T03:56:43Z",
-  "subject": "chore: test hydrator commit"
+  "date": "2025-10-11T04:07:24Z",
+  "subject": "test hydrator commit2"
 }
